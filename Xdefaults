@@ -1,0 +1,7 @@
+urxvt*transparent: true
+urxvt*shading: 30
+Rxvt*foreground: White
+URxvt*background: Black
+
+URxvt.font:xft:Monospace:pixelsize=15
+URxvt.boldfont:xft:Monospace-Bold:pixelsize=15
