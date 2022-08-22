@@ -9,3 +9,9 @@ URxvt.boldfont:xft:Monospace-Bold:pixelsize=15
 URxvt*scrollTtyOutput:      false
 URxvt*scrollWithBuffer:     true
 URxvt*scrollTtyKeypress:    true
+
+!! blue dark/light
+*color4: #268bd2
+*color12: #839496
+
+URxvt*scrollBar:            true
