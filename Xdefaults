@@ -14,4 +14,4 @@ URxvt*scrollTtyKeypress:    true
 *color4: #268bd2
 *color12: #839496
 
-URxvt*scrollBar:            true
+URxvt*scrollBar:            false
