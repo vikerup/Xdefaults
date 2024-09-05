@@ -1,7 +1,9 @@
 urxvt*transparent: true
-urxvt*shading: 5
+urxvt*shading: 10
 Rxvt*foreground: White
 URxvt*background: Black
+
+URxvt.saveLines: 20000
 
 URxvt.font:xft:Monospace:pixelsize=15
 URxvt.boldfont:xft:Monospace-Bold:pixelsize=15
@@ -9,9 +11,13 @@ URxvt.boldfont:xft:Monospace-Bold:pixelsize=15
 URxvt*scrollTtyOutput:      false
 URxvt*scrollWithBuffer:     true
 URxvt*scrollTtyKeypress:    true
+URxvt.scrollBar: false
 
-!! blue dark/light
 *color4: #268bd2
 *color12: #839496
 
-URxvt*scrollBar:            false
+urxvt.perl-ext-common: default,tabbed,matcher,resize-font,-tabbed
+
+URxvt.geometry: 400x400
+
+URxvt.iso14755: false
